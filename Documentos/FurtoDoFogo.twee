@@ -1,0 +1,470 @@
+:: StoryTitle
+Furto do fogo
+
+
+:: StoryData
+{
+  "ifid": "59AFBCF9-E4E9-46E4-93B2-8CB4BC6B7BB4",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "A origem do fogo",
+  "tag-colors": {
+    "bbb": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: A origem do fogo {"position":"475,175","size":"100,100"}
+(text-colour:white)[[Start]]
+
+
+
+
+:: Cena 2 {"position":"600,500","size":"100,100"}
+(text-colour:red)[''Diálogo:'']
+
+(text-colour:navy)[Oriba:] Droga, as carnes ainda não estão prontas, nessas horas queria ser um urubu... 
+
+(text-colour:navy)[Upiara:] Um urubu? 
+
+(text-colour:navy)[Oriba:] Sim, você não sabe? Os urubus possuem um jeito diferente de cozinhar a carne, eles usam um pequeno sol chamado “fogo”, esse pequeno sol não só ilumina os arredores a noite, mas também cozinha a carne muito mais rápido. 
+
+(text-colour:navy)[Upiara:] É isso! Se eu trouxer esse fogo para a tribo, finalmente serei digno de se casar com a Airya! [Sorri] 
+
+(text-colour:navy)[Oriba:] Mas não dá tempo, o casamento já é amanhã! [Surpreso] 
+
+(text-colour:navy)[Upiara:] Então vamos hoje à noite! 
+
+(text-colour:navy)[Oriba:] Hoje à noite? Os urubus são extremamente temidos por todas as tribos da região, já seria perigoso ir durante o dia, e você quer ir de madrugada 
+
+(text-colour:navy)[Upiara:] Sim, você mesmo disse várias vezes que não há tempo a perder, e acho que será mais fácil ver o fogo durante a noite. 
+
+(text-colour:navy)[Oriba:] Sim, mas... 
+
+(text-colour:navy)[Upiara:] Se você não quiser ir tudo bem, mas eu vou, não deixarei que a Airya se case com outro homem a força! 
+
+(text-colour:navy)[Oriba:] Não, tudo bem, eu vou com você! Não sou nenhum covarde! 
+
+(text-colour:navy)[Upiara:] Certo, aguardaremos o anoitecer, esteja pronto...
+
+[[Cena 3]] 
+
+
+:: Cena 3 {"position":"600,625","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara e Oriba estão escondidos na mata, observando os urubus 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] Parece que chegamos em uma hora ruim, todos aqui reunidos, será que é alguma comemoração?  
+
+(text-colour:red)[''Ação: '']
+
+Rei Urubu se aproxima do fogo e dos outros urubus
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] Obrigado, fico extremamente lisonjeado pela presença de todos neste banquete, sei que para muitos esse é o dia em que seu rei nasceu, mas para mim é o dia que pude vir ao mundo e estar com meu povo, e por isso quero celebrar esse dia com todos vocês, que tanto me honraram durante os anos e me deram a chance de ser seu rei, logo trarei a carne para que o banquete comece, enquanto isso, vamos celebrar, aos urubus! 
+
+(text-colour:red)[''Ação:'']
+
+Rei Urubu levanta seu punho para o alto, e todos os outros urubus comemoram alegres, então o Rei Urubu, vai embora.
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] O que faremos, Upiara? Há urubus por toda a parte, não tem como se aproximar do fogo! [Com medo] 
+
+(text-colour:navy)[Upiara:] Calma, vai dar certo, só precisamos pensar bem antes de agir.
+
+[[Investigar os Capangas]]
+
+
+:: Fugir {"position":"725,1125","size":"100,100"}
+(text-colour:red)[''Narração: '']
+
+Upiara, pela primeira vez em sua vida, sentiu medo, medo do que poderia acontecer com ele nas mãos dos urubus, e então fugiu, abandonando seu amigo. Ao chegar na tribo, Upiara, humilhado por sua derrota e devastado pela perda da vida de seu amigo e da mão da mulher amada, ele vai embora da tribo, e desde então Upiara nunca mais foi visto.
+
+(text-colour:red)[''FIM'']
+
+
+:: Investigar os Capangas {"position":"600,750","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara observa Ibiri e Celerino, Celerino está distraído olhando para o fogo e Ibiri afiando uma lança. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] Eles estão distraídos, vamos lá! 
+
+(text-colour:navy)[Upiara:] Espere! Se formos lá agora é arriscado, podem nos ver, temos que fazer com que saiam daí. 
+
+(text-colour:navy)[Oriba:] Bom, o que está olhando para o fogo não parece muito assustador, acho que não notaria tão fácil, agora o com a lança me dá calafrios. 
+
+(text-colour:navy)[Upiara:] Então é ele mesmo que temos que tirar daí! 
+
+(text-colour:red)[''Ação: '']
+
+Upiara vê uma pedra no chão 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Hm, isso pode ser a solução...
+
+[[Não fazer nada]]
+
+[[Pegar a pedra e jogar ela longe]]
+
+
+
+
+
+:: Jogar {"position":"600,375","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara chega na tribo com uma fantasia improvisada de cobra, feita com madeira de árvores, e sua fantasia está coberta de flechas
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] Não acredito que seu plano deu certo Upiara, conseguimos as flechas! [Sorrindo] 
+
+(text-colour:navy)[Upiara:] Sim, espero que seja suficiente para impressionar o cacique. 
+
+(text-colour:navy)[Oriba: ]Você não ficou sabendo? [Preocupado] 
+
+(text-colour:navy)[Upiara:] Não, o que houve? 
+
+(text-colour:navy)[Oriba:] O cacique já escolheu um pretendente para sua filha Airya, o casamento será amanhã. 
+
+(text-colour:navy)[Upiara:] O que??? [Surpreso] 
+
+(text-colour:navy)[Oriba: ]Ela não te contou? 
+
+(text-colour:navy)[Upiara: ][Silêncio] 
+
+(text-colour:red)[''Ação: '']
+
+Airya chega e se aproxima de Upiara com uma cara triste.
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Airya:] Upiara... 
+
+(text-colour:navy)[Upiara:] [interrompe] Tudo bem, eu já fique sabendo sobre seu casamento 
+
+(text-colour:navy)[Airya:] Sinto muito, eu não queria, mas meu pai insistiu, já foram tantos pretendentes que eu consegui escapar, porém agora não tem mais jeito. [Triste] 
+
+(text-colour:navy)[Upiara:] Não se preocupe, não vou deixar que esse casamento aconteça 
+
+(text-colour:navy)[Airya:] Mas como? O casamento já é amanhã! 
+
+(text-colour:navy)[Upiara:] Não se preocupe, confie em mim 
+
+(text-colour:navy)[Airya:] Está bem 
+
+(text-colour:red)[''Ação: '']
+
+Airya vai embora e Oriba volta a cena
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] Upiara, como que você vai conseguir impedir? O casamento já é amanhã, e o cacique sempre foi contra a união de vocês. 
+
+(text-colour:navy)[Upiara:] Preciso fazer algo para provar a ele que sou digno da mão da Airya 
+
+(text-colour:navy)[Oriba:] Mas não é isso que você está tentando fazer a anos? Ainda assim ele não se convenceu. 
+
+(text-colour:navy)[Upiara:] Só preciso fazer a coisa certa, algo que impressione não só ao cacique, mas também a toda a tribo, assim não terá ninguém que poderá duvidar da minha bravura! 
+
+[Oriba:] Então é melhor pensar rápido, não há tempo a perder! 
+
+(text-colour:red)[''Ação: '']
+
+Barriga de Oriba ronca
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] Bom, acho que há um tempinho para comer, né? [Sorriso envergonhado] 
+
+(text-colour:red)[''Ação: '']
+
+Upiara e Oriba saem de cena.
+
+[[Cena 2]]
+
+
+:: Matar o capanga {"position":"600,1000","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara chega por trás de Ibiri e o esfaqueia com uma faca rústica. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Oriba, esconda o corpo, agora vou tentar me aproximar do fogo, tome cuidado! 
+
+(text-colour:navy)[Oriba:] E-está bem... [Assustado] 
+
+(text-colour:red)[''Ação: '']
+
+Upiara volta sozinho ao esconderijo
+
+(text-colour:red)[''Dúvidas'']
+
+(text-colour:navy)[Upiara:] Hm, e agora, o que posso fazer para distrair esse cara? ele não parece esperto o suficiente para notar seus arredores, mas é bom não arriscar, acho melhor continuar investigado até chegar em uma solução. 
+
+(text-colour:navy)[Upiara:] Hm, já ei, acho que posso usar esse pedaço de carne para distraí-lo! 
+
+(text-colour:red)[''Ação: '']
+
+Upiara joga o pedaço de carne no fogo, e Celerino se atrai pelo cheiro e se aproxima para comer a carne. 
+
+(text-colour:red)[''Opção Única: '']
+
+Empurrar o capanga para o fogo 
+
+(text-colour:red)[''Ação: '']
+
+Upiara empurra Celerino para o fogo, e se aproxima do fogo com um pedaço de folha. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Acho que se eu pegar um pouco dessa madeira seca já vai ser suficiente para transportar esse fogo para casa. 
+
+(text-colour:red)[''Ação: '']
+
+Upiara tenta pegar uma das brasas da fogueira com a folha, mas o Rei Urubu retorna, e Upiara volta a se esconder no mesmo esconderijo. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] Finalmente, chegou a hora do banquete, acho que ficarão satisfeitos com uma bela carne cozinhada no nosso maior tesouro, o fogo! Isso não é apenas um banquete, é a prova da superioridade dos urubus! Viva a nós! 
+
+(text-colour:red)[''Ação: '']
+
+Todos os urubus começam a celebrar, porém dois urubus chegam segurando Oriba e interrompem à celebração. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Urubu:] Meu rei, encontramos esse intruso nos arredores da tribo, ele matou Ibiri e estava tentando esconder o corpo! 
+
+(text-colour:navy)[Rei Urubu:] O que?! O jogue na fogueira! Assassinos não serão perdoados! 
+
+[[Tentar salvar Oriba]]
+
+[[Fugir]]
+
+
+
+
+
+:: Não fazer nada {"position":"800,700","size":"100,100"}
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Hm, acho melhor eu pensar um pouco mais antes de tomar uma decisão. Quer saber? Acho que vou investigar aquela carne.
+
+(text-colour:red)[''Ação: '']
+
+Upiara vai investigar a carne, puxa de leve as folhas que estão a cobrindo e vê que a carne é um porco selvagem.
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Nossa, esse porco é quase do meu tamanho, eu conseguiria me esconder aqui e ninguém iria perceber...
+
+[[Se esconder junto com a carne]]
+
+[[Voltar ao esconderijo]]
+
+
+:: Pegar a pedra e jogar ela longe {"position":"750,875","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara pega a pedra e joga ela longe, Ibiri olha para a direção que a pedra foi jogada, e imediatamente se levanta para investigar. Ibiri entra na mata. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] É agora, nossa chance! O que fazemos, Upiara? 
+
+[[Matar o capanga]]
+
+[[Roubar as roupas dele e se disfarçar de urubu]]
+
+
+
+
+:: Roubar as roupas dele e se disfarçar de urubu {"position":"900,1000","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara chega por trás de Ibiri com uma pedra na mão e a bate contra a cabeça do urubu, que desmaia. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Vou pegar as roupas dele e me disfarçar, você fica aqui de olho caso ele acorde! 
+
+(text-colour:navy)[Oriba:] Está bem! 
+
+(text-colour:red)[''Ação:'' ]
+
+Upiara se disfarça de urubu, e se aproxima de Celerino, que está perto da fogueira. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Celerino:] Iribi, você voltou! Onde você foi? 
+
+(text-colour:navy)[Upiara Disfarçado:] Ah, só fui olhar, sabe, checar se está tudo bem, se não tem nenhum intruso espionado, sabe? [Sorriso nervoso] 
+
+(text-colour:navy)[Celerino:] Ah sim, verdade, faz sentido você se preocupar, se alguém souber a verdade essa celebração se tornara desastre! 
+
+(text-colour:navy)[Upiara Disfarçado:] Verdade? Como assim? 
+
+(text-colour:navy)[Celerino:] Você esqueceu? [sussurrando] O rei não é o filho legítimo ao trono, ele tinha um irmão mais velho, mas o assassinou quando era jovem para roubar o trono, e disse a todos que ele fugiu da tribo por medo de ser um líder ruim e decepcionar seu povo. 
+
+(text-colour:navy)[Upiara Disfarçado:] Ah, sim, verdade, como eu pude esquecer! [sorriso nervoso] 
+
+(text-colour:navy)[Upiara (Pensamento):] Hm, essa informação pode vir a ser útil... 
+
+(text-colour:red)[''Ação: '']
+
+O Rei Urubu volta 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] Finalmente, chegou a hora do banquete, acho que ficarão satisfeitos com uma bela carne cozinhada no nosso maior tesouro, o fogo! Isso não é apenas um banquete, é a prova da superioridade dos urubus! Viva a nós! 
+
+(text-colour:red)[''Ação: '']
+
+Todos os urubus começam a celebrar, porém o verdadeiro Ibiri chega segurando Oriba e interrompe a celebração. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Ibiri:] Meu rei, esse intruso, junto com aquele que está fingindo ser eu, me atacaram com uma pedra e desmaiei, eles viram roubar nosso fogo, é um ataque a nossa tribo! 
+
+(text-colour:navy)[Rei Urubu:] O que?! Os joguem na fogueira! Ladrões não serão perdoados! 
+
+(text-colour:navy)[Upiara:] Ah é? Pois então você também não deverá ser perdoado! 
+
+(text-colour:navy)[Rei Urubu:] O que disse? O que quer dizer com isso? [furioso] 
+
+(text-colour:red)[''Opção Única: '']
+
+Contar a verdade 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] O se rei mentiu para vocês, o irmão dele não fugiu, ele o matou para roubar o seu trono! Seu próprio capanga me contou! 
+
+(text-colour:red)[''Ação: '']
+
+Os urubus começam a ficar bravos 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] É mentira, não confiem neste ladrão! 
+
+(text-colour:navy)[Celerino:] É mentira? Mas foi o senhor mesmo que me contou isso! O senhor mentiu para mim, meu rei? [confuso] 
+
+(text-colour:red)[''Ação: '']
+
+Os urubus ficam furiosos e começam a atacar o Rei Urubu 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] NÃO, POR FAVOR, EU FIZ ISSO PARA O SEU BEM! ELE NÃO SE IMPORTAVA COM VOCÊS, NÃAOO!
+
+(text-colour:red)[''Ação: '']
+
+Upiara aproveita o caos para se aproximar do fogo e tentar roubar uma brasa com a ajuda de uma folha. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Acho que se eu pegar um pouco dessa madeira seca já vai ser suficiente para transportar esse fogo para casa, não tenho tempo a perder! 
+
+(text-colour:red)[''Ação: '']
+
+Upiara é atacado por Ibiri, e Oriba, para salvar Upiara acerta uma lança em Ibiri. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Oriba:] Rápido! Pegue o fogo e vamos fugir! 
+
+(text-colour:red)[''Ação: '']
+
+Upiara pega uma brasa, a enrola na folha e ele e Oriba fogem da tribo. 
+
+(text-colour:red)[''Narração:'']
+
+Os dois retornam para a tribo, com sua pequena faísca na mão, e a carne dos urubus, que Oriba decidiu trazer de última hora. Ao chegar, juntaram várias madeiras e com a brasa, acenderam uma grande fogueira, tão grande que a luz vinda do fogo e o cheiro da carne assando acordou a tribo inteira, todo impressionados com tamanha beleza e alegres pelo banquete, mas uma pessoa se impressionou, mas que todos, o cacique, que admitiu que mesmo não vendo potencial em Upiara, não podia negar sua bravura e honra, e que era sim digno de se casar com sua filha. Oriba também recebeu elogios pela sua coragem de enfrentar cara a cara um urubu e pelo banquete que trouxe, assim ambos foram reconhecidos como os heróis da tribo, e sua história perpetuada por gerações. 
+
+(text-colour:red)[''FIM'']
+
+
+
+
+:: Se esconder junto com a carne {"position":"1200,900","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara se esconde, e a carne chega ao banquete, o Rei Urubu fica desconfiado e se aproxima da carne e dá um sorriso. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] Celerino, jogue a carne na fogueira, com as folhas e tudo! 
+
+(text-colour:navy)[Celerino:] Mas por quê? Não é melhor tirar as folhas?  
+
+(text-colour:navy)[Rei Urubu:] Vão ser queimadas de qualquer forma, não tem por que perder tempo. 
+
+(text-colour:navy)[Celerino:] Ah sim, você é muito inteligente, meu rei! [Sorri] 
+
+(text-colour:red)[''Ação: '']
+
+Os urubus jogam a carne com Upiara escondido. 
+
+(text-colour:red)[''Narração: '']
+
+Oriba, chocado com a forma brutal em que seu amigo foi jogado na fogueira, correu apavorado, e desde então nunca mais saiu para nenhuma aventura, vivendo para sempre aterrorizado com a memória do dia que seu companheiro morreu tentando furtar o fogo. 
+
+(text-colour:red)[''FIM '']
+
+
+
+
+:: Start {"position":"475,300","size":"100,100"}
+(text-colour:white)[[Ver resumo da história]]
+(text-colour:white)[[Jogar]]
+
+
+:: Tentar salvar Oriba {"position":"600,1125","size":"100,100"}
+(text-colour:red)[''Ação: '']
+
+Upiara sai do esconderijo e tenta atacar os urubus que estão segurando Oriba, mas é pego pelos outros urubus. 
+
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Rei Urubu:] O que fazem aqui, assassinos? 
+
+(text-colour:navy)[Upiara:] Viemos pegar o fogo! 
+
+(text-colour:navy)[Rei Urubu:] O fogo pertence aos urubus e apenas a nós! A partir de hoje, ninguém mais irá se atrever a mexer no que não lhe pertence! 
+
+(text-colour:red)[''Narração: '']
+
+O Rei Urubu ordena que os urubus matem Upiara e Oriba. Após matá-los, suas cabeças foram fincadas e lanças e exibidas na entrada da tribo dos urubus, como um lembrete para todas as outras tribos do que acontece com quem se atreve a enfrentar os urubus.
+
+(text-colour:red)[''FIM'']
+
+
+:: Ver resumo da história {"position":"600,200","size":"100,100"}
+(align:"<==>")+(box:"X")[Upiara volta de uma aventura onde conseguiu pegar as flechas e dá-las a sua tribo (referência a lenda, mas ao chegar encontra Oriba que o elogia pelo sucesso do furto das flechas, mas conta que Aiyra vai se casar, então ele vai falar com ela e ela conta que o pai ainda não considera Upiara digno de se casar com a sua filha e encontrou outro pretendente para ela, Upiara promete a Aiyra que vai achar um jeito de provar que é digno. ]
+
+
+
+
+:: Voltar ao esconderijo {"position":"1200,600","size":"100,100"}
+(text-colour:red)[''Diálogo: '']
+
+(text-colour:navy)[Upiara:] Não, seria muito arriscado, melhor voltar ao esconderijo e pensar em outro plano, mas, acho que essa carne pode vir a ser útil... 
+ 
+(text-colour:red)[''Ação: '']
+
+Upiara pega um pedaço da carne, a guarda e volta ao esconderijo.
+
+[[Matar o capanga]] 
