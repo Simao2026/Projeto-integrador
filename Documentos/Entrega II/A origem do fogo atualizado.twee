@@ -1,0 +1,2420 @@
+:: StoryTitle
+A origem do fogo
+
+
+:: StoryData
+{
+  "ifid": "BEEDC138-2D05-4D06-87FB-43F61657A5CF",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Início",
+  "tag-colors": {
+    "pag1": "red",
+    "pag2": "red",
+    "pag3": "red",
+    "pag4": "red",
+    "pag5": "red",
+    "pag6": "red",
+    "pag7": "red",
+    "pag8": "red",
+    "pag9": "red",
+    "pag10": "orange",
+    "pag11": "yellow",
+    "pag12": "yellow",
+    "pag13": "yellow",
+    "pag14": "yellow",
+    "pag15": "yellow",
+    "pag16": "yellow",
+    "pag17": "yellow",
+    "pag18": "yellow",
+    "pag19": "yellow",
+    "pag20": "yellow",
+    "pag21": "yellow",
+    "pag22": "yellow",
+    "pag23": "yellow",
+    "pag24": "yellow",
+    "pag25": "yellow",
+    "pag26": "yellow",
+    "pag27": "yellow",
+    "pag28": "yellow",
+    "pag29": "yellow",
+    "pag30": "yellow",
+    "pag31": "yellow",
+    "pag32": "yellow",
+    "pag33": "yellow",
+    "pag34": "yellow",
+    "pag35": "yellow",
+    "pag36": "yellow",
+    "pag37": "yellow",
+    "pag38": "yellow",
+    "pag39": "yellow",
+    "pag40": "yellow",
+    "pag41": "yellow",
+    "pag42": "yellow",
+    "pag43": "yellow",
+    "pag44": "yellow",
+    "pag45": "yellow",
+    "pag46": "yellow",
+    "pag47": "yellow",
+    "pag48": "yellow",
+    "pag49": "yellow",
+    "pag50": "yellow",
+    "pag51": "yellow",
+    "pag52": "yellow",
+    "pag53": "yellow",
+    "pag54": "yellow",
+    "pag55": "yellow",
+    "pag56": "yellow",
+    "pag57": "yellow",
+    "pag58": "yellow",
+    "pag59": "yellow",
+    "pag60": "yellow",
+    "pag61": "yellow",
+    "pag62": "yellow",
+    "pag63": "yellow",
+    "pag64": "yellow",
+    "pag65": "yellow",
+    "pag66": "yellow",
+    "pag67": "yellow",
+    "pag68": "yellow",
+    "pag69": "yellow",
+    "pag70": "yellow",
+    "pag71": "yellow",
+    "pag72": "yellow",
+    "pag73": "yellow",
+    "pag74": "yellow",
+    "pag75": "yellow",
+    "pag76": "yellow",
+    "pag77": "yellow",
+    "pag78": "yellow",
+    "pag79": "yellow",
+    "pag80": "yellow",
+    "pag81": "yellow",
+    "pag82": "yellow",
+    "pag83": "yellow",
+    "pag84": "yellow",
+    "pag85": "yellow",
+    "pag86": "yellow",
+    "pag87": "yellow",
+    "pag88": "yellow",
+    "pag89": "yellow",
+    "pag90": "yellow",
+    "pag91": "yellow",
+    "pag92": "yellow",
+    "pag93": "yellow",
+    "pag94": "yellow",
+    "pag95": "yellow",
+    "pag96": "yellow",
+    "pag97": "yellow",
+    "pag98": "yellow",
+    "pag99": "yellow",
+    "pag100": "green",
+    "pag101": "green",
+    "pag102": "green",
+    "pag103": "green",
+    "pag104": "green",
+    "pag105": "green",
+    "pag106": "green",
+    "pag107": "green",
+    "pag108": "green",
+    "pag109": "green",
+    "pag110": "green",
+    "pag111": "green",
+    "pag112": "green",
+    "pag113": "green",
+    "pag114": "green",
+    "pag115": "green",
+    "pag116": "green",
+    "pag117": "green",
+    "pag118": "green",
+    "pag119": "green",
+    "pag120": "green",
+    "pag121": "green",
+    "pag122": "green",
+    "pag123": "green",
+    "pag124": "green",
+    "pag125": "green",
+    "jogar": "green",
+    "pag133": "green",
+    "condicional": "green",
+    "escolhas": "green",
+    "pag126": "green",
+    "pag127": "green",
+    "pag128": "green",
+    "pag129": "green",
+    "pag130": "green",
+    "pag131": "green",
+    "pag132": "green",
+    "pag134": "green",
+    "pag135": "green",
+    "pag136": "green",
+    "pag137": "green",
+    "pag138": "green",
+    "pag139": "green",
+    "pag140": "green",
+    "pag141": "green",
+    "pag142": "green",
+    "pag143": "green",
+    "pag144": "green",
+    "pag145": "green",
+    "pag146": "green",
+    "pag147": "green",
+    "pag148": "green",
+    "pag149": "green",
+    "pag150": "green",
+    "pag151": "green",
+    "pag152": "green",
+    "pag153": "green",
+    "pag154": "green",
+    "pag155": "green",
+    "pag156": "green",
+    "efeitoLink": "purple",
+    "efeitoLinkVoltar": "blue",
+    "final": "green",
+    "pag17escolhas": "blue"
+  },
+  "zoom": 1
+}
+
+
+:: 10 [pag10] {"position":"1400,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->9]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->11]]
+
+
+:: 100 [pag100] {"position":"3425,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->99]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->101]]
+
+
+:: 101 [pag101 efeitoLinkVoltar] {"position":"3550,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->95]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 102 [pag102] {"position":"3675,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->95]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->103]]
+
+
+:: 103 [pag103 efeitoLinkVoltar] {"position":"3800,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->95]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 104 [pag104] {"position":"3925,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->84]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->105]]
+
+
+:: 105 [pag105] {"position":"4050,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->104]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->106]]
+
+
+:: 106 [pag106] {"position":"4175,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->105]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->107]]
+
+
+:: 107 [pag107 escolhas] {"position":"4300,1725","size":"100,100"}
+<div>
+  <br>
+      <br>
+        <br>
+(link: "1. Conversar com o capanga")[
+ 
+    (go-to: "108")
+]
+
+(link: "2. Empurrar o capanga ao fogo")[
+     
+    (go-to: "154")
+]
+
+</div>
+
+
+:: 108 [pag108] {"position":"650,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->107]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->109]]
+
+
+:: 109 [pag109] {"position":"775,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->108]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->110]]
+
+
+:: 11 [pag11] {"position":"1525,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->10]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->12]]
+
+
+:: 110 [pag110] {"position":"900,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->109]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->111]]
+
+
+:: 111 [pag111] {"position":"1050,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->110]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->112]]
+
+
+:: 112 [pag112] {"position":"1175,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->111]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->113]]
+
+
+:: 113 [pag113] {"position":"1300,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->112]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->114]]
+
+
+:: 114 [pag114] {"position":"1425,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->113]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->115]]
+
+
+:: 115 [pag115] {"position":"1550,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->114]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->116]]
+
+
+:: 116 [pag116] {"position":"1675,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->115]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->117]]
+
+
+:: 117 [pag117] {"position":"1800,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->116]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->118]]
+
+
+:: 118 [pag118] {"position":"1925,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->117]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->119]]
+
+
+:: 119 [pag119] {"position":"2050,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->118]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->120]]
+
+
+:: 12 [pag12] {"position":"1650,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->11]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->13]]
+
+
+:: 120 [pag120] {"position":"2175,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->119]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->121]]
+
+
+:: 121 [pag121] {"position":"2300,1875","size":"100,100"}
+<div class="div-teste">
+   [[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->120]] 
+
+	[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->122]]
+</div>
+
+
+:: 122 [pag122] {"position":"2425,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->121]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->123]]
+
+
+:: 123 [pag123 escolhas] {"position":"2550,1875","size":"100,100"}
+<div>
+  <br>
+      <br>
+        <br>
+(link: "Contar a verdade")[
+ 
+    (go-to: "124")
+]
+
+</div>
+
+
+:: 124 [pag124] {"position":"2675,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->125]]
+
+
+:: 125 [pag125] {"position":"2800,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->124]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->126]]
+
+
+:: 126 [pag126] {"position":"2925,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->125]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->127]]
+
+
+:: 127 [pag127] {"position":"3050,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->126]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->128]]
+
+
+:: 128 [pag128] {"position":"3175,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->127]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->129]]
+
+
+:: 129 [pag129] {"position":"3300,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->128]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->130]]
+
+
+:: 13 [pag13] {"position":"1775,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->12]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->14]]
+
+
+:: 130 [pag130] {"position":"3425,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->129]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->131]]
+
+
+:: 131 [pag131] {"position":"3550,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->130]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->132]]
+
+
+:: 132 [pag132] {"position":"3675,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->131]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->133]]
+
+
+:: 133 [pag133 condicional] {"position":"3800,1875","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->132]]
+(if: $escolha is 1)[[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->134]]]
+(else-if: $escolha is 2)[[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->137]]]
+
+
+:: 134 [pag134] {"position":"3925,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->133]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->135]]
+
+<div>
+    
+(if: $brigou is true)[
+(go-to: "137")
+ ]
+ (else:)[
+ (go-to: "135")
+ ]
+
+</div>
+
+
+:: 135 [pag135 efeitoLinkVoltar] {"position":"4050,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->134]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->136]]
+
+
+:: 136 [pag136 efeitoLinkVoltar] {"position":"4175,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->107]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 137 [pag137] {"position":"3925,2150","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->133]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->138]]
+
+
+:: 138 [pag138] {"position":"4050,2150","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->137]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->139]]
+
+
+:: 139 [pag139] {"position":"4175,2150","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->138]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->140]]
+
+
+:: 14 [pag14] {"position":"1900,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->13]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->15]]
+
+
+:: 140 [pag140 efeitoLinkVoltar] {"position":"4300,2150","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->107]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 141 [pag141] {"position":"650,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->53]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->142]]
+
+
+:: 142 [pag142] {"position":"775,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->141]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->143]]
+
+
+:: 143 [pag143 escolhas] {"position":"900,2025","size":"100,100"}
+<div>
+  <br>
+      
+(link: "1. Se esconder junto com a carne")[
+ 
+    (go-to: "144")
+]
+
+(link: "2. Pegar um pedaço da carne")[
+     (set: $pegouCarne to true)
+    (go-to: "152")
+]
+
+</div>
+
+
+:: 144 [pag144] {"position":"1050,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->143]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->145]]
+
+
+:: 145 [pag145] {"position":"1175,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->144]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->146]]
+
+
+:: 146 [pag146] {"position":"1300,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->145]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->147]]
+
+
+:: 147 [pag147] {"position":"1425,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->146]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->148]]
+
+
+:: 148 [pag148] {"position":"1550,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->147]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->149]]
+
+
+:: 149 [pag149] {"position":"1675,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->148]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->150]]
+
+
+:: 15 [pag15] {"position":"2025,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->14]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->16]]
+
+
+:: 150 [pag150] {"position":"1800,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->149]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->151]]
+
+
+:: 151 [pag151 efeitoLinkVoltar] {"position":"1925,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->143]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 152 [pag152] {"position":"2050,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->143]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->153]]
+
+
+:: 153 [pag153] {"position":"2175,2025","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->152]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->53]]
+
+
+:: 154 [pag154] {"position":"3925,2350","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->107]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->155]]
+
+
+:: 155 [pag155] {"position":"4050,2350","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->154]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->156]]
+
+
+:: 156 [pag156 efeitoLinkVoltar] {"position":"4175,2350","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->107]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 16 [pag16] {"position":"2150,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->15]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->17]]
+
+
+:: 17 [pag17 escolhas pag17escolhas] {"position":"2275,450","size":"100,100"}
+<div>
+
+(set:$brigou to false)
+(set:$pegouCarne to false)
+    <br>
+(link: "1. Não se preocupe, não vou deixar que esse casamento aconteça!")[
+    (go-to: "18")
+]
+
+(link: "2. Você deveria ter tentado mais, parece que nem me ama de verdade!")[
+    (set: $brigou to true)
+    (go-to: "19")
+]
+
+</div>
+
+
+:: 18 [pag18] {"position":"2400,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->17]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->22]]
+
+
+:: 19 [pag19] {"position":"2400,325","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->17]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->20]]
+
+
+:: 20 [pag20] {"position":"2400,200","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->19]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->21]]
+
+
+:: 21 [pag21] {"position":"2400,75","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->20]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->24]]
+
+
+:: 22 [pag22] {"position":"2525,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->18]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->23]]
+
+
+:: 23 [pag23] {"position":"2650,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->22]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->24]]
+
+
+:: 24 [pag24] {"position":"2775,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->23]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->25]]
+
+
+:: 25 [pag25] {"position":"2925,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->24]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->26]]
+
+
+:: 26 [pag26] {"position":"3075,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->25]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->27]]
+
+
+:: 27 [pag27] {"position":"3200,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->26]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->28]]
+
+
+:: 28 [pag28] {"position":"3325,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->27]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->29]]
+
+
+:: 29 [pag29] {"position":"3450,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->28]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->30]]
+
+
+:: 30 [pag30] {"position":"3575,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->29]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->31]]
+
+
+:: 31 [pag31] {"position":"3700,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->30]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->32]]
+
+
+:: 32 [pag32] {"position":"3825,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->31]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->33]]
+
+
+:: 33 [pag33] {"position":"3950,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->32]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->34]]
+
+
+:: 34 [pag34] {"position":"650,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->33]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->35]]
+
+
+:: 35 [pag35] {"position":"775,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->34]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->36]]
+
+
+:: 36 [pag36] {"position":"900,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->35]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->37]]
+
+
+:: 37 [pag37] {"position":"1025,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->36]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->38]]
+
+
+:: 38 [pag38] {"position":"1150,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->37]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->39]]
+
+
+:: 39 [pag39] {"position":"1275,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->38]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->40]]
+
+
+:: 40 [pag40] {"position":"1400,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->39]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->41]]
+
+
+:: 41 [pag41] {"position":"1525,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->40]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->42]]
+
+
+:: 42 [pag42] {"position":"1650,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->41]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->43]]
+
+
+:: 43 [pag43] {"position":"1775,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->42]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->44]]
+
+
+:: 44 [pag44] {"position":"1900,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->43]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->45]]
+
+
+:: 45 [pag45] {"position":"2025,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->44]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->46]]
+
+
+:: 46 [pag46] {"position":"2150,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->45]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->47]]
+
+
+:: 47 [pag47] {"position":"2275,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->46]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->48]]
+
+
+:: 48 [pag48] {"position":"2400,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->47]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->49]]
+
+
+:: 49 [pag49] {"position":"2525,625","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->48]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->50]]
+
+
+:: 5 [pag5] {"position":"775,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->Jogar]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->6]]
+
+
+:: 50 [pag50] {"position":"2525,800","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->49]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->51]]
+
+
+:: 51 [pag51] {"position":"2650,800","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->50]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->52]]
+
+
+:: 52 [pag52] {"position":"2775,800","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->51]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->53]]
+
+
+:: 53 [pag53 escolhas] {"position":"2900,800","size":"100,100"}
+<div>
+  <br>
+ 
+(link: "1. Investigar os capangas")[
+ 
+    (go-to: "54")
+]
+
+(link: "2. Investigar a Carne")[
+     
+    (go-to: "141")
+]
+
+</div>
+
+
+:: 54 [pag54] {"position":"2900,975","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->53]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->55]]
+
+
+:: 55 [pag55] {"position":"3025,975","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->54]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->56]]
+
+
+:: 56 [pag56] {"position":"3150,975","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->55]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->57]]
+
+
+:: 57 [pag57 escolhas] {"position":"3275,975","size":"100,100"}
+<div>
+<br>
+      
+(link: "1. Pegar a pedra e jogar ela longe")[
+ 
+    (go-to: "58")
+]
+
+(link: "2. Atacar os capangas")[
+     
+    (go-to: "61")
+]
+
+(if: $pegouCarne is true)[
+(link: "3. Jogar a carne")[
+     
+    (go-to: "65")]
+]
+(else:)[
+(link: "3. Continuar investigando" )[
+	(go-to: "60")]
+]
+
+
+</div>
+
+
+:: 58 [pag58] {"position":"3400,975","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->57]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->59]]
+
+
+:: 59 [pag59] {"position":"3525,975","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->58]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->60]]
+
+
+:: 6 [pag6] {"position":"900,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->5]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->7]]
+
+
+:: 60 [pag60] {"position":"650,1200","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->59]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->53]]
+
+
+:: 61 [pag61] {"position":"650,1350","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->57]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->62]]
+
+
+:: 62 [pag62] {"position":"775,1350","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->61]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->63]]
+
+
+:: 63 [pag63 efeitoLinkVoltar] {"position":"900,1350","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->57]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 64 [pag64 escolhas] {"position":"900,1650","size":"100,100"}
+<div>
+  <br>
+      <br>
+        <br>
+(link: "1. Atrair capanga à direita")[
+ 
+    (go-to: "65")
+]
+
+(link: "2. Atrair capanga à esquerda")[
+     
+    (go-to: "82")
+]
+
+</div>
+
+
+:: 65 [pag65] {"position":"1050,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->64]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->66]]
+
+
+:: 66 [pag66] {"position":"1175,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->65]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->67]]
+
+
+:: 67 [pag67 escolhas] {"position":"1425,1575","size":"100,100"}
+<div>
+  <br>
+      <br>
+        <br>
+(link: "1. Matar o capanga")[
+ 
+    (go-to: "68")
+]
+
+(link: "2. Roubar as roupas dele e se disfarçar de urubu")[
+     
+    (go-to: "73")
+]
+
+</div>
+
+
+:: 68 [pag68] {"position":"1550,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->67]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->69]]
+
+
+:: 69 [pag69] {"position":"1675,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->68]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->70]]
+
+
+:: 7 [pag7] {"position":"1025,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->6]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->8]]
+
+
+:: 70 [pag70] {"position":"1800,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->69]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->71]]
+
+
+:: 71 [pag71] {"position":"1925,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->70]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->72]]
+
+
+:: 72 [pag72 efeitoLinkVoltar] {"position":"2050,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->67]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/reset.png?raw=true">->Jogar]]
+
+
+:: 73 [pag73] {"position":"2175,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->67]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->74]]
+
+
+:: 74 [pag74] {"position":"2300,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->73]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->75]]
+
+
+:: 75 [pag75] {"position":"2425,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->74]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->76]]
+
+
+:: 76 [pag76] {"position":"2550,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->75]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->77]]
+
+
+:: 77 [pag77] {"position":"2675,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->76]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->78]]
+
+
+:: 78 [pag78] {"position":"2800,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->77]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->79]]
+
+
+:: 79 [pag79] {"position":"2925,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->78]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->80]]
+
+
+:: 8 [pag8] {"position":"1150,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->7]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->9]]
+
+
+:: 80 [pag80] {"position":"3050,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->79]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->81]]
+
+
+:: 81 [pag81] {"position":"3175,1575","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->80]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->72]]
+
+
+:: 82 [pag82] {"position":"1050,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->64]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->83]]
+
+
+:: 83 [pag83] {"position":"1175,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->82]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->84]]
+
+
+:: 84 [pag84 escolhas] {"position":"1425,1725","size":"100,100"}
+<div>
+  <br>
+      <br>
+        <br>
+(link: "1. Matar o capanga")[
+ 
+    (go-to: "85")
+]
+
+(link: "2. Roubar as roupas dele e se disfarçar de urubu")[
+     
+    (go-to: "104")
+]
+
+</div>
+
+
+:: 85 [pag85] {"position":"1550,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->84]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->86]]
+
+
+:: 86 [pag86] {"position":"1675,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->85]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->87]]
+
+
+:: 87 [pag87] {"position":"1800,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->86]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->88]]
+
+
+:: 88 [pag88] {"position":"1925,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->87]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->89]]
+
+
+:: 89 [pag89] {"position":"2050,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->88]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->90]]
+
+
+:: 9 [pag9] {"position":"1275,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->8]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->10]]
+
+
+:: 90 [pag90] {"position":"2175,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->89]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->91]]
+
+
+:: 91 [pag91] {"position":"2300,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->90]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->92]]
+
+
+:: 92 [pag92] {"position":"2425,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->91]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->93]]
+
+
+:: 93 [pag93] {"position":"2550,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->92]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->94]]
+
+
+:: 94 [pag94] {"position":"2675,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->93]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->95]]
+
+
+:: 95 [pag95 escolhas] {"position":"2800,1725","size":"100,100"}
+<div>
+  <br>
+      <br>
+        <br>
+(link: "1. Tentar salvar Oriba")[
+ 
+    (go-to: "96")
+]
+
+(link: "2. Fugir")[
+     
+    (go-to: "102")
+]
+
+</div>
+
+
+:: 96 [pag96] {"position":"2925,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->95]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->97]]
+
+
+:: 97 [pag97] {"position":"3050,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->96]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->98]]
+
+
+:: 98 [pag98] {"position":"3175,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->97]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->99]]
+
+
+:: 99 [pag99] {"position":"3300,1725","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->98]] 
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->100]]
+
+
+:: Início [pag1 efeitoLink] {"position":"525,200","size":"100,100"}
+[[Start]]
+
+
+:: Jogar [pag4 jogar] {"position":"650,450","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->Start]]
+
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/ir2.png?raw=true">->5]]
+
+
+:: Start [pag2 efeitoLink] {"position":"525,325","size":"100,100"}
+[[Ver resumo da história]] 
+
+[[Jogar]]
+
+
+:: Ver resumo da história [pag3 efeitoLinkVoltar] {"position":"650,325","size":"100,100"}
+[[<img src="https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Imagens/voltar2.png?raw=true">->Start]]
+
+
+:: StoryStylesheet [stylesheet]
+/*Adição de imagens de fundo*/
+
+body [tags~="pag1"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/1.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag2"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/2.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag3"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/3.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="jogar"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/4.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag5"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/5.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag6"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/6.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag7"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/7.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag8"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/8.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag9"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/9.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag10"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/10.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag11"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/11.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag12"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/12.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag13"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/13.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag14"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/14.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag15"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/15.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag16"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/16.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag17"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/17.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag18"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/18.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag19"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/19.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag20"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/20.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag21"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/21.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag22"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/22.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag23"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/23.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag24"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/24.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag25"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/25.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag26"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/26.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag27"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/27.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag28"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/28.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag29"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/29.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag30"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/30.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag31"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/31.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag32"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/32.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag33"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/33.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag34"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/34.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag35"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/35.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag36"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/36.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag37"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/37.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag38"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/38.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag39"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/39.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag40"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/40.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag41"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/41.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag42"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/42.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag43"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/43.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag44"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/44.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag45"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/45.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag46"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/46.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag47"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/47.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag48"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/48.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag49"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/49.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag50"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/50.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag51"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/51.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag52"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/52.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag53"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/53.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag54"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/54.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag55"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/55.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag56"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/56.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag57"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/57.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag58"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/58.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag59"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/59.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag60"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/60.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag61"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/61.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag62"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/62.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag63"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/63.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag64"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/64.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag65"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/65.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag66"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/66.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag67"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/67.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag68"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/68.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag69"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/69.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag70"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/70.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag71"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/71.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag72"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/72.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag73"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/73.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag74"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/74.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag75"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/75.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag76"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/76.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag77"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/77.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag78"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/78.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag79"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/79.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag80"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/80.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag81"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/81.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag82"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/82.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag83"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/83.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag84"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/84.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag85"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/85.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag86"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/86.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag87"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/87.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag88"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/88.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag89"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/89.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag90"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/90.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag91"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/91.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag92"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/92.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag93"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/93.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag94"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/94.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag95"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/95.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag96"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/96.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag97"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/97.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag98"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/98.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag99"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/99.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag100"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/100.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag101"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/101.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag102"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/102.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag103"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/103.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag104"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/104.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag105"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/105.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag106"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/106.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag107"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/107.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag108"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/108.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag109"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/109.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag110"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/110.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag111"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/111.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag112"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/112.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag113"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/113.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag114"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/114.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag115"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/115.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag116"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/116.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag117"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/117.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag118"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/118.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag119"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/119.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag120"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/120.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag121"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/121.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag122"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/122.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag123"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/123.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag124"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/124.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+body [tags~="pag125"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/125.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag126"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/126.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag127"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/127.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag128"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/128.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag129"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/129.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag130"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/130.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag131"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/131.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag132"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/132.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag133"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/133.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag134"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/134.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag135"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/135.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag136"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/136.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag137"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/137.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag138"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/138.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag139"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/139.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag140"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/140.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag141"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/141.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag142"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/142.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag143"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/143.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag144"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/144.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag145"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/145.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag146"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/146.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag147"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/147.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag148"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/148.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag149"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/149.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag150"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/150.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag151"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/151.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag152"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/152.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag153"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/153.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag154"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/154.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag155"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/155.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+body [tags~="pag156"] {
+      background-image: url("https://github.com/Simao2026/Projeto-integrador/blob/main/Imagens/Frames/156.png?raw=true");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+/*----------------------------*/
+
+tw-passage {
+    flex-wrap: wrap;
+  	
+}
+
+tw-passage > div {
+    flex-basis: 100%;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	gap: 0;
+  	margin:-50px;
+   
+}
+
+/*----------------------------*/
+
+
+/*Posicionamento dos textos*/
+
+.div-teste {
+  	position: fixed;
+	display: flex;
+    flex-direction: row;
+  	gap: 50px;
+  
+}
+
+/*Estilização do link das primeiras páginas*/
+
+body [tags~="efeitoLink"] tw-link {
+	color:white;
+  	font-size:20px;
+  	border: 2px solid white;
+  	border-radius:10px;
+  	padding: 10px;
+ 
+}
+
+body [tags~="efeitoLinkVoltar"] tw-link {
+	margin-top:190px;
+}
+
+/*Links das escolhas*/
+
+body [tags~="escolhas"] tw-link {
+	color:white;
+  	text-align:justify;
+  	height:45px;
+  	margin: -20px;
+}
+
+body [tags~="pag17escolhas"] tw-link {
+	font-size:20px;
+}
+
+
+
+/*----------------------------*/
+
+body .div-teste tw-passage {margin-top:100%;}
+
+tw-passage [tags~="pag17escolhas"] {
+	margin-top: 50%;
+}
+
+tw-passage {
+    background-image: none !important;
+  	display: flex;
+    flex-direction: row;
+  	flex-wrap: wrap;
+  	justify-content: center; /*Novo*/
+  	align-content: flex-start;
+  	gap: 60px;            /* vertical 10px, horizontal 60px */
+    width: 100%;
+  	margin: 0; /*a proporção original era de 48vh*/
+ 	margin-top: 44.8%;
+    overflow: hidden;          /* remove a barra de rolação */
+  
+  	
+}
+  	
+}
+
+
+
+tw-passage br {
+    display: none;   /*teste para remoção de itens adicionais */
+}
+
+tw-expression,
+tw-hook {
+    display: contents;
+}
+
+tw-expression[name="link-goto"][title*="->132"] tw-link { 
+  /*Para posicionar o link no lugar correto da tela*/
+    position: relative;
+    left: -90px;
+  
+}
+
+
+
+/*Alinhamento do texto página 2*/
+
+
+
+/*Mudança da cor do texto*/
